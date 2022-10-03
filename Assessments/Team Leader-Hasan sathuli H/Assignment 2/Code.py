@@ -1,5 +1,5 @@
 import random
-i=10
+
 while(True):
     temp=random.randint(1,100)
     humi=random.randint(1,100)
@@ -10,4 +10,4 @@ while(True):
     else:
         print("Low Temperature      ALARM OFF...")
         print("")
-    i-=1
+   
